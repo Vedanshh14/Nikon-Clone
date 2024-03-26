@@ -1,0 +1,376 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px 0px;
+}
+
+
+.nav {
+    display: flex;
+}
+
+.navul {
+    display: flex;
+    margin: 0px 20px;
+    justify-content: space-between;
+
+
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.navli {
+    margin: 0px 10px;
+    list-style: none;
+    padding: 15px;
+    padding-bottom: 20px;
+    font-weight: 600;
+
+}
+
+.uldiv {
+    margin-left: 40px;
+    margin-top: 34px;
+}
+
+.nava {
+    text-decoration: none;
+    color: black;
+}
+
+.nava:hover {
+    padding-bottom: 20px;
+    border-bottom: 3px solid #fee600;
+
+}
+
+.starter {
+    margin: 0px 0px;
+    height: 45px;
+
+    background: #fee600;
+}
+
+.initial {
+    margin-top: 40px;
+    text-align: center;
+    height: 400px;
+
+    background-image: url("img4.jpg");
+    background-size: 1520px 452px;
+    background-repeat: no-repeat;
+
+}
+
+.featureh {
+    margin-top: 45px;
+    color: white;
+    font-size: 35px;
+
+}
+
+.featurep {
+    margin-top: 20px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.feature {
+    margin-top: 5px;
+    width: 400px;
+    /* margin: auto; */
+
+}
+
+.learnmore {
+    font-size: 15px;
+    /* background-color: #fee600; */
+    background-color: #fee600;
+    color: black;
+    padding: 13px 20px;
+    margin-top: 10px;
+
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.products {
+    display: flex;
+
+    margin: 90px 50px 0px 50px;
+    justify-content: space-around;
+
+
+}
+
+.product {
+    height: 450px;
+    width: 300px;
+
+    text-align: center;
+}
+
+.p {
+    height: 300px;
+    width: 300px;
+    border-bottom: solid 2px grey;
+
+
+}
+
+.producth {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.productli {
+    margin-top: 25px;
+    text-align: center;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.btn {
+    cursor: pointer;
+    font-size: 15px;
+    /* background-color: #fee600; */
+    background-color: #fee600;
+    color: black;
+    padding: 13px 20px;
+    margin-top: 10px;
+
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+}
+
+.zdiv {
+
+    height: 452px;
+    width: 1500px;
+    margin-top: 80px;
+    background-image: url(z1.jpg);
+    background-size: 1520px 452px;
+    background-repeat: no-repeat;
+
+}
+
+.zimg {
+    height: 500px;
+    width: 1500px;
+}
+
+.zh1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+
+}
+
+.zh2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 15px;
+
+}
+
+.btn2 {
+    margin: 0px 683px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+
+
+    color: white;
+    padding: 13px 20px;
+    margin-top: 10px;
+
+    text-decoration: none;
+
+    border: 2px solid #fee600;
+}
+
+.btn2:hover {
+    background-color: #fee600;
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: solid 4px red;
+
+}
+
+.container1 {
+    width: 750px;
+    height: 450px;
+
+
+}
+
+.btn3 {
+    margin-left: 303px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+
+
+    color: white;
+    padding: 13px 20px;
+    margin-top: 10px;
+
+    text-decoration: none;
+
+    border: 2px solid #fee600;
+}
+
+.btn3:hover {
+    background-color: #fee600;
+    color: black;
+}
+
+#container11 {
+    background-image: url(lens2.jpg
+);
+    background-size: 745px 463px;
+    background-repeat: no-repeat;
+
+
+}
+
+#container12 {
+    background-image: url(camera1.jpg);
+    background-size: 745px 463px;
+    background-repeat: no-repeat;
+
+}
+
+#container13 {
+    background-image: url(photographer2.jpg);
+    background-size: 745px 463px;
+    background-repeat: no-repeat;
+
+}
+
+#container14 {
+    background-image: url(sports1.jpg);
+    background-size: 745px 463px;
+    background-repeat: no-repeat;
+
+}
+
+#btn3black {
+    color: black;
+    background-color: #fee600;
+}
+
+#zh1b {
+    color: white;
+    font-weight: 500;
+
+}
+
+#zh2b {
+    color: white;
+    font-weight: 500;
+
+}
+
+.zfc {
+    display: flex;
+    justify-content: center;
+}
+
+.ZFCcont {
+    height: 550px;
+    width: 745px;
+
+}
+
+#camerazfc {
+    background-image: url(zfccamera.webp);
+    background-size: 630px 463px;
+    background-repeat: no-repeat;
+    background-color: #fee600;
+}
+
+.zfch {
+
+    margin-left: 119px;
+    justify-content: center;
+}
+
+#zfcbtn {
+    margin-left: 180px;
+}
+
+.zfchh {
+    font-size: 50px;
+}
+
+.ZFClogo {
+    margin-left: 245px;
+    margin-top: 161px;
+}
+
+.insta {
+    width: 1500px;
+    height: 200px;
+    margin-top: 80px;
+   
+}
+
+.instah {
+    text-align: center;
+}
+
+.footer {
+    width: 1500px;
+    height: 400px;
+ 
+    background-color: rgb(243, 243, 243);
+    display: flex;
+    justify-content: center;
+
+}
+.footercont{
+    text-align: left;
+    background-color: rgb(243, 243, 243);
+    margin-right: 40px;
+    margin-top: 50px;
+
+}
+.footerli{
+    list-style: none;
+    margin: 15px;
+}
+.footerh{
+    text-align: left;
+    margin: 30px;
+    margin-left: 49px;
+    margin-bottom: 50px;
+}
+#about{
+    margin-left: 130px;
+}
+#footera{
+    text-decoration: none;
+    color: black;
+}
+#footera:hover{
+    padding: 5px;
+    
+   
+}
