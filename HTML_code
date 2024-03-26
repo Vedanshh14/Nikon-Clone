@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="nikon.css">
+    <!-- <script src="nkon.js"></script> -->
+    <title>Nikon</title>
+</head>
+
+<body>
+    <div class="starter"></div>
+    <div class="nav">
+        <img class="logo" src="logo.webp" alt="Nikon">
+        <div class="uldiv">
+            <ul class="navul">
+                <li class="navli"> <a class="nava" href="#">PRODUCTS</a> </li>
+                <li class="navli"> <a class="nava" href="#">LEARN AND EXPLORE</a> </li>
+                <li class="navli"> <a class="nava" href="#">NIKON SCHOOL</a> </li>
+                <li class="navli"> <a class="nava" href="#">NPS</a></li>
+                <li class="navli"> <a class="nava" href="#">SUPPORT</a> </li>
+                <li class="navli"> <a class="nava" href="#">WHERE TO BUY</a></li>
+                <li class="navli"> <a class="nava" href="#">PROMOTIONS</a></li>
+                <li class="navli"> <a class="nava" href="#"> NEWS</a> </li>
+            </ul>
+        </div>
+    </div>
+    <!-- ------------------------------------------------------------------------------ -->
+    <div class="initial">
+        <div class="feature">
+            <h1 class="featureh"> <br> Effortless range and perfomance.</h1>
+            <p class="featurep">Experience the unparallel versatility and comfort when you photograph distance subjects
+                such as wildlife, sports and airplanes with the NIKKOR Z 600mm f/4 TC VR S. With an in-built
+                teleconverter, this compact, lightweight super-telephoto lens provides the possibility to change between
+                two focal lengths at a flick of a switch.</p> <br> <br> <button class="btn">LEARN MORE</button>
+        </div>
+
+    </div>
+    <!-- ----------------------------------------------------------------------------------------- -->
+    <div class="products">
+        <div class="product"><img class="p" src="p1.webp" alt="">
+            <h2 class="producth">THE NEW NIKON Z30</h2>
+            <li class="productli">Be Inspired. Inspire Others.</li> <br> <button class="btn">LEARN MORE</button>
+        </div>
+        <div class="product"><img class="p" src="p2.webp" alt="">
+            <h2 class="producth">NIKKOR Z 26MM F/2.8</h2>
+            <li class="productli">Your daily companion.</li> <br> <button class="btn">LEARN MORE</button>
+
+
+        </div>
+        <div class="product"><img class="p" src="p3.webp" alt="">
+            <h2 class="producth">NIKKOR Z 85MM F/1.2S</h2>
+            <li class="productli">Unparalleled details.</li> <br> <button class="btn">LEARN MORE</button>
+        </div>
+        <div class="product"><img class="p" src="p4.webp" alt="">
+            <h2 class="producth">THE NEW NIKON Z9</h2>
+            <li class="productli">An unprecedented imaging experience.</li> <br> <button class="btn">LEARN MORE</button>
+        </div>
+    </div>
+    <!-- -----------------------------------------------------------------------------------------? -->
+    <div class="zdiv">
+
+        <br> <br> <br> <br> <br> <br> <br> <br> <br>
+        <h4 class="zh1">Z Series. </h4>
+        <h1 class="zh2"> The ultimate imaging experience. </h1> <br> <br> <br> <br> <a class="btn2" href="#">LEARN
+            MORE</a>
+    </div>
+    <!-- ------------------------------------------------------------------------------ -->
+    <div class="container">
+        <div class="container1" id="container11"> <br> <br> <br> <br> <br><br><br>
+            <h4 class="zh1">Nikkor z </h4>
+            <h1 class="zh2"> The frontline of the lens revolution. </h1> <br> <br> <br> <br> <a class="btn3"
+                href="#">LEARN
+                MORE</a>
+        </div>
+        <div class="container1" id="container12"> <br> <br> <br> <br> <br><br><br>
+            <h4 class="zh1">Nikkor F </h4>
+            <h1 class="zh2"> Renowned optical masterpiece. </h1> <br> <br> <br> <br> <a class="btn3" href="#">LEARN
+                MORE</a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="container1" id="container13"> <br> <br> <br> <br> <br><br><br>
+            <h4 class="zh1" id="zh1b">DSLR </h4>
+            <h1 class="zh2" id="zh2b"> Feel the liberating power and speed of NIKON DSLR. </h1> <br> <br> <br> <br> <a
+                class="btn3" id="btn3black" href="#">LEARN
+                MORE</a>
+        </div>
+        <div class="container1" id="container14"> <br> <br> <br> <br> <br><br><br>
+            <h4 class="zh1" id="zh1b">SPORT OPTICS. </h4>
+            <h1 class="zh2" id="zh2b"> Binoculars. Rangefinders. Fieldscopes. </h1> <br> <br> <br> <br> <br><br> <a
+                class="btn3" id="btn3black" href="#">LEARN
+                MORE</a>
+        </div>
+    </div>
+    <div class="zfc">
+        <div class="ZFCcont" id="camerazfc">
+            <h1></h1>
+        </div>
+        <div class="ZFCcont" id="logoZFC">
+            <img class="ZFClogo" src="ZFClogo.webp" alt="">
+            <div class="zfch">
+                <h1 class="zfchh">Capture Your Iconic Moments.</h1>
+                <br> <br> <button class="btn" id="zfcbtn">EXPLORE</button>
+            </div>
+        </div>
+    </div>
+    <div class="insta">
+        <h1 class="instah">FOLLOW US ON INSTAGRAM</h1>
+        <br><br><br>
+        <p class="instah">#nikonindia | @nikonindiaofficial</p>
+    </div>
+    <div class="footer">
+        <div class="footercont" id="about">
+            <h2 class="footerh">ABOUT NIKON</h2>
+            <ul>
+                <li class="footerli"> <a id="footera" href="#">CSR</a></li>
+                <li class="footerli"> <a id="footera" href="#">Corp. Profile</a></li>
+                <li class="footerli"> <a id="footera"  href="#">Nikon School</a></li>
+                <li class="footerli"> <a id="footera" href="#"> Careers</a></li>
+                <li class="footerli"> <a id="footera" href="#"> Contact Us</a></li>
+                <li class="footerli"> <a id="footera" href="#"> Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="footercont" id="tools">
+            <h2 class="footerh">TOOLS & DOWNLOADS</h2>
+            <ul></a>
+                <li class="footerli"> <a id="footera" href="#"> Software Updates</a></li>
+                <li class="footerli"> <a id="footera" href="#">Brochures</a></li>
+                <li class="footerli"> <a id="footera" href="#"> Manuals</a></li>
+                <li class="footerli"> <a id="footera" href="#">Nikon Image Space</a></li>
+                <li class="footerli"> <a id="footera" href="#">Adobe Reader</a></li>
+                <li class="footerli"> <a id="footera" href="#">Nikon Camera Apps</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+<script src="nkon.js"></script>
+
+</html>
